@@ -1,0 +1,2 @@
+# This is the initial log file.
+# Subsequent entries will be appended below by file_logger.c.
